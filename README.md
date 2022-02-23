@@ -1,17 +1,20 @@
 ### Hi! I'm Tarsila 👋
 
-<div align="justify">
-<img src="https://user-images.githubusercontent.com/99733390/155252547-a698ab18-a103-40d3-8db8-7927508dddfe.png" width="200px" />
-
   🌱I'm currently studying to become a Mobile Developer!
+  
 ##
 <div>
   <a href = "https://github.com/TarsilaNascMartins">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TarsilaNascMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsilaNascMartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <div style="display: inline_block"><br>
+<img align="right" alt="Ender-pic" height="200" style="border-radius:200px;" 
+<img src="https://user-images.githubusercontent.com/99733390/155252547-a698ab18-a103-40d3-8db8-7927508dddfe.png" width="200px" />
+</div>
     
    ##
+  
   </div>
 </div>
 <div style="display: inline_block">
