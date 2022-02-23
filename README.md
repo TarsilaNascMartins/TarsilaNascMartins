@@ -1,8 +1,9 @@
 ### Oieee! Sou Tarsila 👋
 <div>
   <a href = "https://github.com/TarsilaNascMartins">
-  <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TarsilaNascMartins"
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarsilaNascMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsilaNascMartins&layout=compact&langs_count=7&theme=dracula"/>
+   
   </div>
 
 
