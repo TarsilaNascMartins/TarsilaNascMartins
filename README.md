@@ -1,5 +1,5 @@
-### Oieee! Sou Tarsila 👋
-- 🌱 Atualmente estou estudando para me tornar uma Desenvolvedora Mobile!
+### Hi !I'm Tarsila 👋
+<br>🌱I'm currently studying to become a Mobile Developer!
 <br>
 <div>
   <a href = "https://github.com/TarsilaNascMartins">
