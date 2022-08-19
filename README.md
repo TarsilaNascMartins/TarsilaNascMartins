@@ -1,15 +1,23 @@
-### <h1 align="left">✨ Hi! I'm Tarsila✨ </h1>
 
- * 🌱I'm currently studying Mobile Developer and Data Science Developer!
+ 
+### <h1 align="left">✨ Hi! I'm Tarsila✨ </h1>  
+
+ * 🌱I'm currently studying Mobile Development and Data Development!
  * 😄 Pronouns:she/her
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarsilaNascMartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsilaNascMartins&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-    
- ##
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarsilaNascMartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarsilaNascMartins&layout=compact&langs_count=7&theme=cobalt"/>
+  
+
+  
+ ##
+  </div>
+<div style="display: inline_block"><br>
+<img align="right" alt="Ender-pic" style="border-radius:400px;" 
+<img src="https://github.com/TarsilaNascMartins/TarsilaNascMartins/blob/main/animesher.com_computer-busy-girl-410620.gif?raw=true" width="450px" />
+</div> 
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -20,14 +28,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
  ##
+  
+
+
    <a href="https://instagram.com/nasc_tarsila/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:tarsilanascimentosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://br.linkedin.com/in/tnsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/vkEbrBcr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
-
-
+ 
 
 
 <!--
